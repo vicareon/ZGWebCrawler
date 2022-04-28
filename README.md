@@ -22,5 +22,5 @@ Esse repositório é exclusivo de uma trilha, no caso, a trilha 9 do kit 1 (K1-T
 - Remover todos os produtos que estiverem acima da média calculada no passo 4;
 - Gerar um arquivo CSV e inserir os produtos que restaram no passo 5, com as colunas de título do anúncio, valor, endereço e URL
 
-**Data de entrega**: pendente
+**Data de entrega**: 28/04/2022
 
