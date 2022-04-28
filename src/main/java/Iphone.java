@@ -1,6 +1,5 @@
 public class Iphone {
-    private String nome, endereco, url;
-    private int preco;
+    private String nome, endereco, url, preco;
 
     public Iphone() {
     }
@@ -13,7 +12,7 @@ public class Iphone {
         this.url = url;
     }
 
-    public void setPreco(int preco) {
+    public void setPreco(String preco) {
         this.preco = preco;
     }
 
@@ -25,7 +24,7 @@ public class Iphone {
         return url;
     }
 
-    public int getPreco() {
+    public String getPreco() {
         return preco;
     }
 
