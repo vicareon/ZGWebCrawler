@@ -5,99 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68dd09a8-e826-4993-babd-fa9ee1547791" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/7.1/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/7.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/7.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/Downloads/Componente Organizacional" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/Downloads/Componente de Comunicação" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/Downloads/Componente de Conteúdo e Estrutura" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/Downloads/Componente de Segurança e Privacidade" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/Downloads/planilhaHistoricoComponentes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/Downloads/tabelaErroANS.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/build/classes/groovy/main/webcrawler$_run_closure1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/build/classes/groovy/main/webcrawler$_run_closure2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/build/classes/groovy/main/webcrawler$_run_closure3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/build/classes/groovy/main/webcrawler$_run_closure4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/build/classes/groovy/main/webcrawler$_run_closure5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/build/classes/groovy/main/webcrawler$_run_closure6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/build/classes/groovy/main/webcrawler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerANS/src/main/groovy/webcrawler.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/7.1/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/7.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/7.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawlerOLX/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawlerOLX/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Downloads" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawlerOLX/Downloads" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawlerOLX/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Iphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawlerOLX/build/classes/java/main/Iphone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/WebCrawler.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawlerOLX/build/classes/java/main/WebCrawler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawlerOLX/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhaDeIphones.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhaDeIphones.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawlerOLX/src/main/java/Iphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WebCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawlerOLX/src/main/java/WebCrawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,6 +126,7 @@
       <workItem from="1651194694871" duration="2050000" />
       <workItem from="1651196850458" duration="292000" />
       <workItem from="1651289617562" duration="89000" />
+      <workItem from="1651289743088" duration="385000" />
     </task>
     <servers />
   </component>

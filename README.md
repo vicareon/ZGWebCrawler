@@ -28,10 +28,20 @@ Esse repositório é exclusivo de uma trilha, no caso, a trilha 9 do kit 1 (K1-T
 
 **Assunto**: Web crawling/scraping com Groovy e HTTPBuilder 
 
-**Descrição do desafio**: Desenvolvimento de um Web Crawler para coleta de dados do site do Governo que automatiza o seguinte processo: 
-- Baixar os aquivos da documentação do padrão TISS (Troca de Informações na Saúde Suplementar), na versão mais recente. 
-- Esses arquivos estão disponíveis no site do Governo no campo "Espaço do Prestador de Serviços de Saúde".
-- Acessar o campo "Histórico das versões dos Componentes do Padrão TISS" e Coletar, na tabela, os dados de competência, publicação e início de vigência a partir da competência de data jan/2016;
-- Acessar o campo "Tabelas relacionadas" e baixar a "Tabela de erros no envio para a ANS".
+**Descrição do desafio**: Desenvolvimento de um Web Crawler para coleta de dados do site do Governo que automatiza as seguintes tasks: 
 
-**Data de entrega**: pendente 
+**TASK 1**
+- Acessar o site da ANS > "Espaço do Prestador de Serviços de Saúde" > "TISS - Padrão para Troca de Informação de Saúde Suplementar" > "Padrão TISS Versão Mês/Ano"
+- Obter os elementos da tabela de documentos através de parser no HTML
+- Baixar os arquivos e salvar na pasta de Downloads no mesmo diretório do projeto
+
+**TASK 2**
+- Acessar o campo "Histórico das versões dos Componentes do Padrão TISS"
+- Coletar, através de parser no HTML, os dados de *Competência*, *Publicação* e *Início de Vigência* a partir de Janeiro/2016
+- Gerar uma planilha com os dados coletados
+
+**TASK 3**
+- Acessar o campo "Tabelas relacionadas"
+- Baixar a tabela de erros no envio para a ANS
+
+**Data de entrega**: 29/04/2022
